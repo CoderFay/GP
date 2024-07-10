@@ -10,6 +10,7 @@ Welcome to the Cryptography Visualization Platform! This project aims to address
   - [Overview](#overview)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
+  - [GUI](#Graphic-User-Interface)
   - [Contact](#contact)
 
 ## Features
@@ -25,6 +26,15 @@ Welcome to the Cryptography Visualization Platform! This project aims to address
 - **Styling**: CSS, Bootstrap
 - **Visualization**: Javascript
 - **HCI/UI/UX**: Nielsen heuristic
+
+## Graphic User Interface
+
+![Home page](Image/GP1.PNG)
+
+![Algorthims page](Image/GP2.PNG)
+
+![Caeser Cipher](Image/GP3.PNG)
+
 
 ## Contact
 
