@@ -40,5 +40,5 @@ Welcome to the Cryptography Visualization Platform! This project aims to address
 
 For any questions or feedback, please reach out to:
 
-- **X**: [coderfay](https://x.com/codrfay)
-- **GitHub**: [coderfay](https://github.com/codrfay)
+- **X**: [coderfay](https://x.com/coderfay)
+- **GitHub**: [coderfay](https://github.com/coderfay)
